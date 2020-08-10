@@ -1,0 +1,10 @@
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.exe.config
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.exe
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.pdb
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csprojAssemblyReference.cache
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.Form1.resources
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.Properties.Resources.resources
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.GenerateResource.cache
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.CoreCompileInputs.cache
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.exe
+C:\Users\nnata\Desktop\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.pdb
